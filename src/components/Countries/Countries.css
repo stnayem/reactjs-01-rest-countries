@@ -1,0 +1,9 @@
+.countries {
+    border: 1px solid green;
+    padding: 10px;
+}
+
+.countries-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
